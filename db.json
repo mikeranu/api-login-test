@@ -1,0 +1,22 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "primer_apellido": "Perez",
+            "segundo_apellido": "Posada",
+            "nombre": "Pepito",
+            "username": "pepepo",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+
+        },
+        {
+            "id": 2,
+            "primer_apellido": "Martinez",
+            "segundo_apellido": "Marulanda",
+            "nombre": "Marta",
+            "username": "mamamu",
+            "password": "01cfcd4f6b8770febfb40cb906715822"
+
+        }
+    ]
+}
